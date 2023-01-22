@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    
+}
+.wrapper{
+    width: 1170px;
+    margin:auto;
+
+}
+body{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("pexels-tara-winstead-8386422.jpg");
+    height:100vh;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+
+}
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+.nav-area li{
+    display: inline-block;
+
+}
+.nav-area li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size:20px;
+}
+.nav-area li a:hover{
+    background: #fff;
+    color: #333;
+}
+.logo img{
+    width:150px;
+    float:left;
+    padding-left: 0%;
+    padding-top: 2%;
+    fill: invert(1);
+}
+.welcome-text{
+    position:absolute;
+    margin: 20% 30%;
+    text-align: center;
+   
+}
+.welcome-text h1{
+    text-align: center;
+ 
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 80px;
+
+}
+.welcome-text a{
+    border: 1px solid #fff;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display:inline-block;
+    color:#fff;
+}
+.welcome-text a:hover{
+    background-color: #fff;
+    color: #333;
+
+}
+.welcome-text p{
+    color: #fff;
+    font-size: 30px;
+}
