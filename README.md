@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Srujan-rai
-- 👀 I’m interested in artificial intelligence and cyber security
-- 🌱 I’m currently learning artificial intelligence and machine learning
+- 👀 IOT and computer vision lead in sosc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/srujan-rai-8371551ba
 
