@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **raisrujan@gmail.com**
 
-- ⚡ Fun fact **I look funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
