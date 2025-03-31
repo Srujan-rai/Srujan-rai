@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srujan Rai</h1>
-<h3 align="center">A passionate IOT developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujan-rai&label=Profile%20views&color=0e75b6&style=flat" alt="srujan-rai" /> </p>
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujan-rai&show_icons=true&locale=en" alt="srujan-rai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-rai&" alt="srujan-rai" /></p>
-![Logo](snake.svg)
+![Logo](github-user-contribution.svg)
