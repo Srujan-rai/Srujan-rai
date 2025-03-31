@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-rai&" alt="srujan-rai" /></p>
 ![Logo](github-user-contribution.svg)
+<img src="./github-user-contribution.svg" alt="Contribution Graph" width="600"/>
