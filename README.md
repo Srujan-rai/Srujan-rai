@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujan-rai&show_icons=true&locale=en" alt="srujan-rai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-rai&" alt="srujan-rai" /></p>
+![Logo](snake.svg)
