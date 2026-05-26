@@ -124,5 +124,5 @@ contact: raisrujan@gmail.com
 ---
 
 <p align="center">
-  <i>I Like building things"</i>
+  <i>"I Like building things"</i>
 </p>
