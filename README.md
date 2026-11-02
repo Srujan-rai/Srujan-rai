@@ -1,128 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Srujan+Rai+%F0%9F%91%8B;Fouding Engineer+%40+Anona Labs;AWS+%7C+Cloud+%7C+AI+%7C+Full-Stack" alt="Typing SVG" />
-</h1>
+# Hey, I'm Srujan Rai 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srujan-rai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/github/followers/srujan-rai?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  </a>
-</p>
+I'm a Cloud & AI Engineer interested in building scalable infrastructure, distributed systems, AI agents, and developer tools.
 
----
+I enjoy understanding how systems work under the hood, experimenting with new technologies, and turning ideas into production-ready products.
 
-## 🧑‍💻 About Me
+## 🚀 What I Do
 
-```yaml
-name: Srujan Rai
-role: Founding Engineer
-company: Anona Labs
-location: India 🇮🇳
-focus:
-  - GCP & Cloud Architecture
-  - ML / AI / Computer Vision
-  - Full-Stack Development (Python + JS)
-  - LLMs & Generative AI
-  - IoT & Drones
-currently_learning:
-  - Advanced Machine Learning
-  - Kubernetes & GCP-native tooling
-  - LLM application development
-open_to_collaborate: true
-contact: raisrujan@gmail.com
-```
+- Design and build cloud-native infrastructure.
+- Build AI agents, memory systems, and LLM-powered applications.
+- Explore distributed systems, networking, containerization, and virtualization.
+- Build developer tools and open-source projects.
+- Work with infrastructure automation, Kubernetes, and CI/CD systems.
 
----
+## 💼 Experience
 
-## 🏆 GitHub Trophies
+### Customer Engineer – Infrastructure Modernization | Niveus Solutions (NTT DATA)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srujan-rai&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-</p>
+- Worked on cloud infrastructure modernization initiatives.
+- Designed and contributed to Google Cloud landing zone architectures.
+- Worked on cloud networking, IAM, security, governance, and infrastructure automation.
+- Contributed to cloud architecture, technical solutions, and customer engineering engagements.
 
----
+### AI & Infrastructure Engineering | Anona Labs
 
-## 🛠️ Tech Stack & Tools
+- Building AI-powered products and infrastructure.
+- Working on AI agent memory systems and compute platforms.
+- Exploring distributed execution, agent architectures, and developer infrastructure.
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+## 🛠️ Technologies & Tools
 
-### 🧠 AI / ML & Computer Vision
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+**Cloud & Infrastructure**
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Kubernetes, Docker
+- Terraform
+- Linux
 
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+**AI & Machine Learning**
+- Gemini, Claude, GPT
+- LLMs, RAG, AI Agents
+- Vertex AI
+- TensorFlow, Computer Vision
 
-### 📊 Data & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Development**
+- Python, TypeScript, JavaScript
+- Node.js, FastAPI
+- PostgreSQL, Redis
+- Next.js
 
-### ⚙️ Tools & Hardware
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+**Infrastructure & Systems**
+- Networking and distributed systems
+- PostgreSQL internals
+- CI/CD and build systems
+- Cloud security and observability
+- Container runtimes and virtualization
 
----
+## 🔭 What I'm Building
 
-## 📈 GitHub Stats
+### Anona Labs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srujan-rai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srujan-rai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs"/>
-</p>
+Working on AI-powered infrastructure and developer products.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-rai&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
+- **Anona Memory** – A memory layer for AI agents that enables them to retain, retrieve, and reason over information from different sources.
+- **Anona Compute** – Infrastructure and compute capabilities for running workloads and AI agents.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srujan-rai&theme=tokyonight" alt="profile summary" />
-</p>
+### Other Projects
+
+- **PgTrace** – Exploring PostgreSQL internals and observability.
+- **ScalePilot** – Kubernetes operator development.
+- **Docuery** – A RAG-powered document intelligence application.
+- **Kube2Run** – Exploring container and workload execution.
+- **Helix** – AI-powered document and presentation workflows.
+
+## 🌱 Currently Exploring
+
+- AI agent architectures and long-term memory.
+- WebSockets, WebTransport, and Media over QUIC.
+- Container runtimes, Linux internals, and virtualization.
+- GPU computing, CUDA, and model inference.
+- Distributed execution and remote development environments.
+- Building reliable infrastructure for AI workloads.
+
+## 📫 Connect With Me
+
+- **Portfolio:** [rai-srujan.vercel.app](https://rai-srujan.vercel.app)
+- **GitHub:** [srujanrai](https://github.com/srujanrai)
+- **Anona Labs:** [anonalabs.com](https://anonalabs.com)
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/srujan-rai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raisrujan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Srujan-rai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"I Like building things"</i>
-</p>
+*Build things. Understand how they work. Make them better.*
