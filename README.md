@@ -15,8 +15,8 @@
 
 ```yaml
 name: Srujan Rai
-role: Customer Engineer
-company: Niveus Solutions (Part of NTT Data)
+role: Founding Engineer
+company: Anona Labs
 location: India 🇮🇳
 focus:
   - GCP & Cloud Architecture
