@@ -14,6 +14,12 @@ I enjoy understanding how systems work under the hood, experimenting with new te
 
 ## 💼 Experience
 
+### AI & Infrastructure Engineering | Anona Labs
+
+- Building AI-powered products and infrastructure.
+- Working on AI agent memory systems and compute platforms.
+- Exploring distributed execution, agent architectures, and developer infrastructure.
+
 ### Customer Engineer – Infrastructure Modernization | Niveus Solutions (NTT DATA)
 
 - Worked on cloud infrastructure modernization initiatives.
@@ -21,11 +27,6 @@ I enjoy understanding how systems work under the hood, experimenting with new te
 - Worked on cloud networking, IAM, security, governance, and infrastructure automation.
 - Contributed to cloud architecture, technical solutions, and customer engineering engagements.
 
-### AI & Infrastructure Engineering | Anona Labs
-
-- Building AI-powered products and infrastructure.
-- Working on AI agent memory systems and compute platforms.
-- Exploring distributed execution, agent architectures, and developer infrastructure.
 
 ## 🛠️ Technologies & Tools
 
